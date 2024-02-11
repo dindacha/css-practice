@@ -1,0 +1,55 @@
+body {
+    background-color: #5F0032;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    padding: 0px;
+    margin: 30px;
+    align-items: center;
+  }
+  .half-circle {
+    width: 50px;
+    height: 100px;
+    background-color: #F180B6;
+  }
+  .div1 {
+    grid-column: 4; grid-row: 1;
+    border-top-left-radius: 90px;
+    border-bottom-left-radius: 90px;
+  }
+  .div2 {
+    grid-column: 5; grid-row: 1;
+    border-top-right-radius: 90px;
+    border-bottom-right-radius: 90px;
+  }
+  .div3 {
+    grid-column: 6; grid-row: 1;
+    border-top-right-radius: 90px;
+    border-bottom-right-radius: 90px;     
+  }
+  .div4 {
+    grid-column: 7; grid-row: 1;
+    border-bottom-right-radius: 90px;     
+    border-top-right-radius: 90px;     
+  }
+
+  .div5 {
+    grid-column: 2; grid-row: 2;
+    border-bottom-left-radius: 90px;
+    border-top-left-radius: 90px;     
+  }
+  .div6 {
+    grid-column: 3; grid-row: 2;
+    border-bottom-left-radius: 90px;
+    border-top-left-radius: 90px; 
+  }
+  .div7 {
+    grid-column: 4; grid-row: 2;
+    border-bottom-left-radius: 90px;
+    border-top-left-radius: 90px; 
+  }
+  .div8 {
+    grid-column: 5; grid-row: 2;
+    border-bottom-right-radius: 90px;
+    border-top-right-radius: 90px; 
+  }
