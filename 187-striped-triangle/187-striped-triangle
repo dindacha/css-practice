@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="020724.css">
+    <title>#187-striped-triangle CSS Battle</title>
+</head>
+<body style="width: 400px; height: 300px;">
+    <div class="tria">
+        <div class="tra a"></div>
+        <div class="tra b"></div>
+        <div class="tra c"></div>
+        <div class="tra d"></div>
+        <div class="tra e"></div>
+        <div class="tra f"></div>
+        <div class="tra g"></div>
+    </div>
+</body>
+</body>
+</html>
