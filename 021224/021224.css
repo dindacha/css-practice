@@ -1,0 +1,32 @@
+body {
+    background-color: #2BBBF3;
+    display: flex;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+.rec {
+    background-color: #D8EFDD;
+    width: 50px;
+    height: 10px;
+    margin-bottom: 15px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius: 10px;
+}
+.kecil {
+    height: 100px;
+}
+.satu{
+    margin-left: 2px;
+}
+.dua{
+    margin-right: 2px;
+}
+.sedang {
+    height: 150px;
+}
+.besar {
+    height: 200px;
+}
