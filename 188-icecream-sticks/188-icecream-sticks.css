@@ -1,0 +1,55 @@
+body {
+  background-color: #fffd9b;
+  margin: 0px;
+  position: relative;
+}
+.lt {
+  width: 340px;
+  height: 20px;
+  background-color: #969610;
+  border-radius: 20px;
+  margin: 60px 30px;
+}
+.lb {
+  width: 340px;
+  height: 20px;
+  background-color: #969610;
+  border-radius: 20px;
+  margin: 140px 30px;
+}
+.ll {
+  width: 20px;
+  height: 240px;
+  background-color: #969610;
+  border-radius: 20px;
+  position: absolute;
+  top: -30;
+  left: 110;
+}
+.lr {
+  width: 20px;
+  height: 240px;
+  background-color: #969610;
+  border-radius: 20px;
+  position: absolute;
+  top: -30;
+  left: 270;
+}
+.dy {
+  width: 20px;
+  height: 240px;
+  background-color: #646521;
+  border-radius: 20px;
+  position: absolute;
+  top: -30;
+  left: 190;
+}
+.dx {
+  width: 340px;
+  height: 20px;
+  background-color: #646521;
+  border-radius: 20px;
+  position: absolute;
+  top: 80;
+  left: 30;
+}
